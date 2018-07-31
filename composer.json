@@ -1,7 +1,6 @@
 {
     "name": "normalcoder/easy-gitee",
     "description": "SDK for Gitee OpenAPI v5.0",
-    "type": "project",
     "license": "MIT",
     "authors": [
         {
