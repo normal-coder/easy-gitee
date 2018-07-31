@@ -1,0 +1,18 @@
+{
+    "name": "normalcoder/easy-gitee",
+    "description": "SDK for Gitee OpenAPI v5.0",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "诺墨",
+            "email": "normal@normalcoder.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "EasyGitee.php"
+        ]
+    }
+}
